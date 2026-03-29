@@ -1,0 +1,24 @@
+Ingresos: 20000.0
+Gastos: 10000.0
+Ahorro: 10000.0
+Porcentaje: 50.0%
+Clasificacion: Excelente
+-----------------------------
+Ingresos: 2000.0
+Gastos: 100.0
+Ahorro: 1900.0
+Porcentaje: 95.0%
+Clasificacion: Excelente
+-----------------------------
+Ingresos: 25321.0
+Gastos: 40000.0
+Ahorro: -14679.0
+Porcentaje: -57.971644089885864%
+Clasificacion: Negativo
+------------------------
+Ingresos: 2500.0
+Gastos: 1000.0
+Ahorro: 1500.0
+Porcentaje: 60.0%
+Clasificacion: Excelente
+------------------------
